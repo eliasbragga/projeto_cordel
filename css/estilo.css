@@ -91,7 +91,7 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url(../imagens/background001.jpg);
+    background-image: url('../imagens/background001.jpg');
     background-attachment: fixed;
     background-position: right, center;
     background-size: cover;
@@ -99,7 +99,7 @@ section#img01 {
 }
 
 section#img02 {
-    background-image: url(../imagens/background002.jpg);
+    background-image: url('../imagens/background002.jpg');
     background-attachment: fixed;
     background-position: right,center;
     
